@@ -1,4 +1,4 @@
-<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/7b5fc17f-d0f2-4bc5-8399-3ca6c4d039b6" /># PlayPro V3 – QA Testing Repository
+# PlayPro V3 – QA Manual Testing Repository
 
 ## Project Overview
 This repository contains QA testing artifacts for the **PlayPro V3 project**, It is a professional Project in Nehos Groupe Company, including test reports, test cases, documentation, and supporting files used during manual and automation testing activities.
